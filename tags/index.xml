@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sebastian Vega Uribe</title>
+    <link>https://hugo-profile.netlify.app/tags/</link>
+    <description>Recent content in Tags on Sebastian Vega Uribe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CLeaning</title>
+      <link>https://hugo-profile.netlify.app/tags/cleaning/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/cleaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collection</title>
+      <link>https://hugo-profile.netlify.app/tags/collection/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://hugo-profile.netlify.app/tags/data/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data analysis</title>
+      <link>https://hugo-profile.netlify.app/tags/data-analysis/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://hugo-profile.netlify.app/tags/data-science/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://hugo-profile.netlify.app/tags/python/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://hugo-profile.netlify.app/tags/sql/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

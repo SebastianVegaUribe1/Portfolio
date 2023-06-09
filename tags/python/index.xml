@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Sebastian Vega Uribe</title>
+    <link>https://hugo-profile.netlify.app/tags/python/</link>
+    <description>Recent content in python on Sebastian Vega Uribe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demystifying Data Analysis: A Comprehensive Guide for Beginners</title>
+      <link>https://hugo-profile.netlify.app/blogs/blog1/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/blogs/blog1/</guid>
+      <description>Understanding Data Types: We&amp;rsquo;ll begin by introducing readers to the different types of data encountered in data analysis, such as numerical, categorical, and ordinal data. We&amp;rsquo;ll explain the characteristics and significance of each data type, and provide examples to help readers better understand how to identify and work with different data types in their analyses.
+Data Collection Methods: In this section, we&amp;rsquo;ll explore various data collection methods, such as surveys, interviews, and observational studies.</description>
+    </item>
+    
+  </channel>
+</rss>
